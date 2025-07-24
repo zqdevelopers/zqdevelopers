@@ -1,74 +1,42 @@
-# SolidStart
+<h1 align="center">Hi 👋, I'm Zaheer ul Islam</h1>
+<h3 align="center">Full Stack Developer | Automation Expert | SaaS Builder</h3>
 
-![Netlify + Solid](https://user-images.githubusercontent.com/43764894/223558736-6cf48156-2316-419d-8be9-e318ecf0e4be.png)
+<p align="center">
+  🚀 Founder of <b>ZQ Developers</b> – Building next-gen CRMs, ERPs, WhatsApp Automation & AI-Powered SaaS Tools.<br>
+  🧠 Passionate about clean code, smart workflows, and real-world problem solving.
+</p>
 
+---
 
+### 🛠️ Tech Stack & Specialties
 
-A Solid Quickstart template that will get you started with everything you need to build a Solid project, powered by [`solid-start`](https://github.com/ryansolid/solid-start/tree/master/packages/solid-start);
+- 🔧 **Languages & Frameworks:** PHP (Laravel), JavaScript (Node.js, React, Vue.js)
+- 🌐 **Backend & APIs:** REST, Webhooks, PostgreSQL, Firebase, Socket.IO
+- 📲 **WhatsApp Automation:** Baileys.js, SMPPKing API, PushFlow, ZQ WA CRM
+- 🤖 **AI & Automation:** OpenAI (ChatGPT/Gemini), Google Apps Script, GPT Bots
+- 📦 **SaaS & Systems:** ERP, CRM, SMM Panel, Lead Gen, Cold2Close Automation
 
-Click the below button to quickly create a new repo, create a new Netlify project, and deploy!
+---
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/solid-quickstart?utm_campaign=template-team&utm_source=dtn-button&utm_medium=dtn-button&utm_term=solid-qt-dtn-button&utm_content=solid-qt-dtn-button)
+### 💼 Current Projects
 
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Building](#building)
-- [Deploying using the Netlify CLI](#deploying-using-the-netlify-cli)
+- **ZQ WA CRM PRO** – Next-gen WhatsApp CRM with AI & Kanban Flow  
+- **SalesGenie AI – Cold2Close** – WhatsApp-based lead nurturing & follow-up system  
+- **WorkFlow360 (Arabic ERP)** – Project, task & approval management SaaS
 
-## Project Structure
+---
 
-Inside of your Solidjs project, you'll see the following folders and files:
+### 📈 Let’s Connect
 
-```
-/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   └── Counter.css
-│   │   └── Counter.tsx
-│   └── routes/
-│       └── [...404].tsx
-│       └── index.tsx
-├── entry-client.tsx
-├── entry-server.tsx
-├── root.css
-├── root.tsx
-├── package.json
-└── vite.config.json
-```
+- 🌍 Website: [zqdevelopers.com](https://zqdevelopers.com)
+- 💼 Business: ZQ Developers
+- 📱 WhatsApp: [+92 322 5473812](https://wa.me/923225473812)
+- 📩 Email: info@zqdevelopers.com
 
-## Getting Started
+---
 
-If you want to get started locally, you can clone the project, install the dependencies and run the dev command!
-
-```
-git clone https://github.com/netlify-templates/solid-quickstart.git
-cd solid-quickstart
-npm install
-npm run dev
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-Solid apps are built with _adapters_, which optimise your project for deployment to different environments.
-
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different adapter, add it to the `devDependencies` in `package.json` and specify in your `vite.config.js`.
-
-## Deploying using the Netlify CLI
-- Install the Netlify CLI globally `npm install netlify-cli -g`
-    
-- Run `npm run build`
-
-- Then use the `netlify deploy` for a deploy preview link or `netlify deploy --prod` to deploy to production
-
-Here are a few other ways you can deploy this template:
-    
-- Use the Netlify CLI's create from template command `netlify sites:create-template solid-quickstart` which will create a repo, Netlify project, and deploy it
-    
-- If you want to utilize continuous deployment through GitHub webhooks, run the Netlify command `netlify init` to create a new project based on your repo or `netlify link` to connect your repo to an existing project
-
-Hope this template helps :) Happy coding 👩🏻‍💻!
+<p align="center">
+  💬 “Code it clean. Automate it smart. Deliver it fast.”  
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaheer112&show_icons=true&theme=radical" alt="Zaheer's GitHub stats"/>
+</p>
