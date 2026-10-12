@@ -38,5 +38,5 @@
 <p align="center">
   💬 “Code it clean. Automate it smart. Deliver it fast.”  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zaheer112&show_icons=true&theme=radical" alt="Zaheer's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zqdevelopers&show_icons=true&theme=radical" alt="Zaheer's GitHub stats"/>
 </p>
